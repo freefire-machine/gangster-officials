@@ -1,0 +1,15 @@
+img{
+    border-radius: 50%;
+}
+body{
+    background-color: #e4bbbb;
+}
+.flag{
+    border-radius:20%;
+    margin-left: 40% ;
+    margin-top: 5px;
+}
+.guild{
+    color: royalblue;
+    margin-left: 60%;
+}   
